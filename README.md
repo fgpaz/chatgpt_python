@@ -9,10 +9,10 @@
 pip3 install -r requirements.txt
 ```
 -> If it doesn't work use: 
-```pip3 install git+https://github.com/openai/openai-python.git```
+```$ pip3 install git+https://github.com/openai/openai-python.git dotenv```
 
 3. Run the script:
 ```python
 python -u chatgpt.py
 ```
--> To stop the script type `exit`
+IMPORTANT -> To stop the script type `exit`
