@@ -31,10 +31,4 @@
     python -u chatgpt.py
     ```
 
-    To stop the script type
-
-    ```bash
-    exit
-    ```
-
-    or use `Ctrl+C`
+    -> To stop the script type `exit` or use `Ctrl+C`
